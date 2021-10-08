@@ -12,3 +12,6 @@ Hotdogs
 Pad Thai
 Dunburi
 curry
+
+Doblo
+Tigra
